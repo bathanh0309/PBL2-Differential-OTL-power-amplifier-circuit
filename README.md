@@ -9,7 +9,7 @@
 ### System Overview:
 - Differential OTL (Output Transformer-Less) power amplifier is a type of amplifier designed to amplify electrical signals without using an output transformer. 
 - This helps reduce the size, weight and cost of the system.
-### How It Works?
+
 **Differential Stage:**
 - The main task is to amplify the input signal, providing separation and adjustment between signals.
 - This stage uses transistors or op-amps to create a differential signal, which helps increase sensitivity and reduce noise.
