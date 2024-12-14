@@ -22,6 +22,7 @@
 - The final stage, responsible for amplifying the signal to the power level required to drive a speaker or other load.
 - This stage often uses power transistors to achieve high amplification.
 ## Quick View of the Project
-![image]()
-![image]()
-![image]()
+![image](22.jpg)
+![image](33.jpg)
+![image](44.jpg)
+![image](55.jpg)
